@@ -17,27 +17,29 @@ Driven by curiosity, simplicity, and a love for well-crafted digital experiences
 
 # 📊 GitHub Stats:
 
-<!-- Stats section -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tolqinovhq&theme=gotham&show_icons=true&hide_border=true&count_private=true" 
-    alt="tolqinovhq's GitHub Stats" 
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolqinovhq&theme=gotham&show_icons=true&hide_border=true&layout=compact" 
-    alt="tolqinovhq's Top Languages" 
-    height="180em"
-  />
-</p>
-
-<!-- Streak section -->
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=tolqinovhq&theme=gotham&hide_border=true" 
-    alt="tolqinovhq's GitHub Streak" 
-    width="75%"
-  />
+  <!-- Stats section -->
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=tolqinovhq&theme=gotham&show_icons=true&hide_border=true&count_private=true" 
+      alt="tolqinovhq's GitHub Stats" 
+      height="180em"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolqinovhq&theme=gotham&show_icons=true&hide_border=true&layout=compact" 
+      alt="tolqinovhq's Top Languages" 
+      height="180em"
+    />
+  </p>
+  
+  <!-- Streak section -->
+  <p align="center">
+    <img 
+      src="https://streak-stats.demolab.com?user=tolqinovhq&theme=gotham&hide_border=true" 
+      alt="tolqinovhq's GitHub Streak" 
+      width="75%"
+    />
+  </p>
 </p>
 
 ## 🏆 GitHub Trophies
