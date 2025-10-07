@@ -33,11 +33,11 @@ Driven by curiosity, simplicity, and a love for well-crafted digital experiences
   </p>
   
   <!-- Streak section -->
-  <p align="start">
+  <p align="center">
     <img 
       src="https://streak-stats.demolab.com?user=tolqinovhq&theme=gotham&hide_border=true" 
       alt="tolqinovhq's GitHub Streak" 
-      width="75%"
+      width="100%"
     />
   </p>
 </p>
