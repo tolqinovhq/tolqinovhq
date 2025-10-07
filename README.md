@@ -37,7 +37,7 @@ Driven by curiosity, simplicity, and a love for well-crafted digital experiences
     <img 
       src="https://streak-stats.demolab.com?user=tolqinovhq&theme=gotham&hide_border=true" 
       alt="tolqinovhq's GitHub Streak" 
-      width="95%"
+      width="90%"
     />
   </p>
 </p>
