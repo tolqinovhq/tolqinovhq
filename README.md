@@ -54,7 +54,7 @@ Driven by curiosity, simplicity, and a love for well-crafted digital experiences
     height="100%"
   />
   <img 
-    src="https://picsum.photos/800/300?grayscale"
+    src="https://picsum.photos/800/290?grayscale"
     alt="random" 
     width="49%" 
     height="100%"
