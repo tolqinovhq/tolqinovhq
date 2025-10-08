@@ -49,4 +49,4 @@ Driven by curiosity, simplicity, and a love for well-crafted digital experiences
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tolqinovhq&limit=5&theme=react&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=tolqinovhq&limit=5&theme=gotham&combine_all_yearly_contributions=true)
