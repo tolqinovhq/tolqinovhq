@@ -46,21 +46,7 @@ Driven by curiosity, simplicity, and a love for well-crafted digital experiences
 ![](https://github-profile-trophy.vercel.app/?username=tolqinovhq&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<p align="center">
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" 
-    alt="quote" 
-    width="49%" 
-    height="100%"
-  />
-  <img 
-    src="https://picsum.photos/800/290?grayscale"
-    alt="random" 
-    width="49%" 
-    height="100%"
-    style="border-radius: 40px;"
-  />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tolqinovhq&limit=5&theme=react&combine_all_yearly_contributions=true)
